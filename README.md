@@ -55,7 +55,6 @@ Eligible Teams will use a new serverless account provisioned by Databricks for t
 Create an AI Agent proof-of-concept using one or more Databricks tools.
 - **Platforms:**
     - Databricks for building projects
-    - Devpost for submitting projects and forming teams
 - **New Projects Only:**
 Projects must be created only during the Project Period.
 - **Third Party Integrations:**
@@ -97,7 +96,6 @@ Submissions must:
 - **Stage One:**
     - Pass/fail check for all necessary Submission Requirements:
         - Working, publicly accessible GitHub repository URL
-        - Demo video not exceeding 5 minutes
         - Demo/test build accessible publicly or via provided credentials
 - **Stage Two:**
     - All valid Submissions are evaluated based on the following equally weighted criteria (“Judging Criteria”):
